@@ -6,7 +6,7 @@ use warnings;
 
 use Readonly;
 
-our $VERSION = 0.01;
+our $VERSION = 0.02;
 
 # Constants.
 Readonly::Array our @EXPORT => qw(update_years);
@@ -163,6 +163,6 @@ BSD 2-Clause License
 
 =head1 VERSION
 
-0.01
+0.02
 
 =cut
